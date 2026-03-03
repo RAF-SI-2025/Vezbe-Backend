@@ -6,3 +6,4 @@ I sutra ce biti lep dan.
 
 Suncano i toplo vreme.
 
+Pokazujemo kako se koristi git.
