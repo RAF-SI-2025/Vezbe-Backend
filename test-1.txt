@@ -2,4 +2,4 @@ Dodavanje novog fajla
 
 Izmena nad postojecim fajlom
 
-Jos jedna izmena
+Simulacija konflikta
